@@ -7,6 +7,10 @@ resource_group = {
         name     = "rg-module-02"
         location = "West US"
     }
+rg3 = {
+        name     = "rg-module-02"
+        location = "West US"
+    }
 }
 
 stg = {
